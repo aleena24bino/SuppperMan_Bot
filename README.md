@@ -1,9 +1,9 @@
 # TINK_HER_HACK_3.0
-# [Project Name] 🎯
+# SuppperMan_Bot 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: NOVA
 
 
 ### Team Members
@@ -31,20 +31,20 @@ This bot automates the process by:
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python (for the bot logic)
+- Telegram Bot API
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No Hardware used
 
 ### Implementation
 For Software:
+- The bot is developed using Python and interacts with the Telegram Bot API.
+- Users initiate the bot with /start.
+- When inactivity is detected, the bot notifies users with keep/delete options.
+- Based on user choice, it either resets tracking or provides a deletion guide.
+
 # Installation
-[commands]
 
 # Run
 [commands]
