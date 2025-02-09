@@ -69,51 +69,23 @@ For Software:
 
 ![bot3](https://github.com/user-attachments/assets/9d7200db-6aeb-488b-b39a-12d1e721d769)
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
 
 # Build Photos
 ![Team](Add photo of your team here)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+# Project Demo
+## Video
 
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
+https://github.com/user-attachments/assets/3772ad56-7002-40be-9f27-538de6cc7264
 
 
-
-https://youtu.be/VXIA8so6qCo
-
-
-
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Meenakshi M Kumar: Idea pitching and debugging part
+- Aleena Bino: Coding part
 
 ---
 Made with ❤️ at TinkerHub
