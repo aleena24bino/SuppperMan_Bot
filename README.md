@@ -45,22 +45,29 @@ For Software:
 - Based on user choice, it either resets tracking or provides a deletion guide.
 
 # Installation
-
+```
+pip install python-telegram-bot
+```
+```
+git clone <repo-link>
+cd <project-folder>
+```
 # Run
-[commands]
+```
+python bot.py
+```
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![bot1](https://github.com/user-attachments/assets/4237888e-874b-4180-8a28-8516b2a84405)
+
+![bot2](https://github.com/user-attachments/assets/5110afa1-06f1-4b72-90e9-29b0f4d78ea2)
+
+![bot3](https://github.com/user-attachments/assets/9d7200db-6aeb-488b-b39a-12d1e721d769)
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
