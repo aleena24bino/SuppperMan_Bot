@@ -12,7 +12,7 @@
 
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+https://t.me/SuppperMan_Bot
 
 ### Project Description
 This Telegram bot helps users identify and manage inactive groups. When enabled in a group, it monitors activity and lists inactive groups to the user. The user can then choose to keep or delete the group, with guided instructions for deletion.
@@ -21,7 +21,12 @@ This Telegram bot helps users identify and manage inactive groups. When enabled 
 Many users are part of multiple Telegram groups that become inactive over time, cluttering their chats. Manually identifying and leaving such groups is time-consuming.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+This bot automates the process by:
+  * Tracking group inactivity.
+  * Listing inactive groups for the user.
+  * Providing options to keep or delete them.
+  * Resetting the timer if the group is kept.
+  * Providing deletion instructions and links if the group is to be removed.
 
 ## Technical Details
 ### Technologies/Components Used
