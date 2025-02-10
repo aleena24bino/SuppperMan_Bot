@@ -2,7 +2,8 @@
 # SuppperMan_Bot 🎯
 ### The Lazy Finder
 
-
+<br>
+<br>
 ## Basic Details
 ### Team Name: NOVA
 
