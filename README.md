@@ -1,5 +1,6 @@
 # TINK_HER_HACK_3.0
 # SuppperMan_Bot 🎯
+### Your Emotional Assistance
 
 
 ## Basic Details
@@ -7,8 +8,8 @@
 
 
 ### Team Members
-- Member 1: Meenakshi M Kumar - School of Engineering
-- Member 2: Aleena Bino - School of Engineering
+- Member 1: [Meenakshi M Kumar](https://github.com/Meenakshimkumar)- School of Engineering
+- Member 2: [Aleena Bino](https://github.com/aleena24bino)- School of Engineering
 
 
 ### Hosted Project Link
