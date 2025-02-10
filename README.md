@@ -1,6 +1,6 @@
 # TINK_HER_HACK_3.0
 # SuppperMan_Bot 🎯
-### Your Emotional Assistance
+### The Lazy Finder
 
 
 ## Basic Details
