@@ -75,15 +75,6 @@ For Software:
 # Build Photos
 ![Team](Add photo of your team here)
 
-
-
-# Project Demo
-## Video
-
-https://github.com/user-attachments/assets/3772ad56-7002-40be-9f27-538de6cc7264
-
-
-
 ## Team Contributions
 - Meenakshi M Kumar: Idea pitching and debugging part
 - Aleena Bino: Coding part
